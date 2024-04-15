@@ -1,2 +1,5 @@
 node_modules/
+<<<<<<< HEAD
 *.env
+=======
+>>>>>>> 0573fc9 (Add existing project files to Git)
