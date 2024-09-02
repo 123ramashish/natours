@@ -1,5 +1,61 @@
+# Node modules
 node_modules/
+<<<<<<< HEAD
 <<<<<<< HEAD
 *.env
 =======
 >>>>>>> 0573fc9 (Add existing project files to Git)
+=======
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Optional coverage directory
+coverage/
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache (optional)
+.cache/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Gridsome cache
+.cache/
+dist/
+
+# Vuepress build output
+.vuepress/dist
+>>>>>>> eedf170 (Resolved merge conflicts)
